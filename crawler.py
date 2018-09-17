@@ -78,3 +78,8 @@ crawl(target_url)
 
 for link in target_links:
     print(link)
+    
+    
+subdomain()
+directory()
+
